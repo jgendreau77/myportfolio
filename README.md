@@ -10,3 +10,8 @@ Initial Set-up
 Step-01
 - Changed menu color to blue and social icons to orange in style.css
 - Kept white hover over social icons
+
+Step-02
+- Deleted images from index.html
+- Added assets folder w/ wtc-site folder and added 2 WTC images to home page
+- Deleted some categories from the bottom of home page
