@@ -15,3 +15,9 @@ Step-02
 - Deleted images from index.html
 - Added assets folder w/ wtc-site folder and added 2 WTC images to home page
 - Deleted some categories from the bottom of home page
+
+Step-03
+- Deleted all images in the gallery and added 25 new images
+- Deleted archives from home and gallery pages
+- Added easy instruction to gallery for viewing images
+
