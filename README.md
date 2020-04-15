@@ -21,3 +21,9 @@ Step-03
 - Deleted archives from home and gallery pages
 - Added easy instruction to gallery for viewing images
 
+Step-04
+- Deleted capture images folder and all images from the About page
+- Added images folder to assets and added an image of myself to put on About page
+- Added Web developer info about myself on About page
+- Deleted categories and archives from footer on Home, Gallery, and About pages
+- Changed some h-tags on Home and About page
