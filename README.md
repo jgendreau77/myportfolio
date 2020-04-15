@@ -1,6 +1,8 @@
 # myportfolio
 https://myportfolio.mysitedevelopment.com
 
+https://github.com/jgendreau77/myportfolio.git
+
 Initial Set-up
 - Downloaded portfolio template from https://colorlib.com/wp/template/capture/
 - Changed all contact info to my own
