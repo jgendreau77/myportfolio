@@ -17,6 +17,8 @@ Step-02
 - Deleted images from index.html
 - Added assets folder w/ wtc-site folder and added 2 WTC images to home page
 - Deleted some categories from the bottom of home page
+- Deleted 2 images from wtc-site folder and added 1 new image of WTC-15 yrs
+- Added wtc 15 yrs image in between the other 2 images and lowered it
 
 Step-03
 - Deleted all images in the gallery and added 25 new images
