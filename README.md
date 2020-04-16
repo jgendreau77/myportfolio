@@ -29,3 +29,10 @@ Step-04
 - Added Web developer info about myself on About page
 - Deleted categories and archives from footer on Home, Gallery, and About pages
 - Changed some h-tags on Home and About page
+
+Step-05
+- Deleted everything from the blog.hmtl page, except for a few things. Added Under Construction to top of page
+- Deleted all info from the footer except for copyright
+- Single.html page is part of blog and I deleted most of the info. Need to get it to work for comments
+- Contact page I deleted everything from the footer and added gmail and resume links
+- Added gmail link to Home, About, and Contact pages
