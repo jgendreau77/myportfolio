@@ -33,8 +33,15 @@ Step-04
 - Changed some h-tags on Home and About page
 
 Step-05
-- Deleted everything from the blog.hmtl page, except for a few things. Added Under Construction to top of page
+- Deleted everything from the blog.html page, except for a few things. Added Under Construction to top of page
 - Deleted all info from the footer except for copyright
 - Single.html page is part of blog and I deleted most of the info. Need to get it to work for comments
 - Contact page I deleted everything from the footer and added gmail and resume links
 - Added gmail link to Home, About, and Contact pages
+
+Step-06
+- Replaced blog.html page with photoshop.html and deleted single.html
+- Deleted under construction and added description and instructions
+- Added photoshop folder to assets/images and added 18 images to photoshop.html page
+- Added text to images
+- Added link to photoshop in index.html
