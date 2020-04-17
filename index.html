@@ -27,6 +27,7 @@
     <link rel="stylesheet" href="capture/capture/css/style.css">
 	<link rel="stylesheet" href="assets/wtc-site/">  
 	<link rel="stylesheet" href="assets/images/Photoshop/">  
+	<link rel="stylesheet" href="assets/css/style.css"> 
   </head>
   <body>
 
@@ -56,16 +57,27 @@
 				</div>
 			</div>
 		</aside> 
-		
-		<div id="colorlib-main"><h3>We Will Never Forget 9-11-01 The Twin Towers (1973-2001) Click Image to Enlarge</h3>
-			<section class="ftco-section-2">
+		<div id="colorlib-main"><h3>We Will Never Forget 9-11-01 The Twin Towers (1973-2001) Click Image to Enlarge</h3>			
+		<section class="ftco-section-2">
+			
+			<body onLoad="initClock()">	
+					  <div id="timedate">
+						<a id="mon">January</a>
+						<a id="d">1</a>,
+						<a id="y">0</a><br />
+						<a id="h">12</a> :
+						<a id="m">00</a> :
+						<a id="s">00</a> 
+					  </div>
+					</body>		
+			
 				<div class="photograhy">
 					<div class="row no-gutters">
 						<div class="col-md-4 ftco-animate">
 							<a href="assets/wtc-site/WTC.jpg" class="photography-entry img image-popup d-flex justify-content-center align-items-center" style="background-image: url(assets/wtc-site/WTC.jpg);">						
 							</a>
-						</div> 
-						<div class="col-md-4 ftco-animate"><br><br><br><br>
+						</div> 						
+						<div class="col-md-4 ftco-animate">					
 							<a href="assets/wtc-site/WTC-15yrs.jpg" class="photography-entry img image-popup d-flex justify-content-center align-items-center" style="background-image: url(assets/wtc-site/WTC-15yrs.jpg);">								
 							</a>
 						</div> 
@@ -73,22 +85,15 @@
 							<a href="assets/wtc-site/world-trade-center.jpg" class="photography-entry img image-popup d-flex justify-content-center align-items-center" style="background-image: url(assets/wtc-site/world-trade-center.jpg);">								
 							</a>
 						</div>
-
 					</div>
 				</div>
-			</section><br>
-	    <footer class="ftco-footer ftco-bg-dark ftco-section">
-	      <div class="container px-md-5">
-
-	        <div class="row mb-5">
-	          <div class="col-md">
-	          </div>
-	          <div class="col-md">
-	          </div>
-	        </div>
+				
+			</section>		
+	    <footer class="ftco-footer ftco-bg-dark ftco-section">			
+	      <div class="container px-md-5">	        
 	        <div class="row">
 	          <div class="col-md-12">
-
+			
 	            <p><!-- Link back to Colorlib can't be removed. Template is licensed under CC BY 3.0. -->
 	  Copyright &copy;<script>document.write(new Date().getFullYear());</script> All rights reserved | This template is made with <i class="icon-heart" aria-hidden="true"></i> by <a href="https://colorlib.com" target="_blank">Colorlib</a>
 	  <!-- Link back to Colorlib can't be removed. Template is licensed under CC BY 3.0. --></p>
@@ -121,6 +126,6 @@
   <script src="https://maps.googleapis.com/maps/api/js?key=AIzaSyBVWaKrjvy3MaE7SQ74_uJiULgl1JY0H2s&sensor=false"></script>
   <script src="capture/capture/js/google-map.js"></script>
   <script src="capture/capture/js/main.js"></script>
-    
+  <script src="assets/js/app.js"></script>  
   </body>
 </html>

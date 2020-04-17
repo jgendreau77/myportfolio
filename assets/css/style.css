@@ -1,0 +1,22 @@
+/* CSS Document */
+
+html {
+	height: 100%;
+	overflow: hidden;
+}
+
+body {background-color:orangered;}
+
+#timedate {
+  font: small-caps lighter 43px/150% "Segoe UI", Frutiger, "Frutiger Linotype", "Dejavu Sans", "Helvetica Neue", Arial, bold;
+  text-align:center;
+  width: 50%;
+  margin: 40px auto;
+  color:#000000;
+  padding: 20px;
+}
+
+/* Hides scroll bar */
+::-webkit-scrollbar {
+    display: none;
+}
