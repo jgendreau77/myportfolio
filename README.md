@@ -51,3 +51,9 @@ Step-06
 - index.html added link for style.css and script for app.js
 - Changed background in style.css to orangered
 - Deleted link and script for capture/js/bootstrap-datepicker.js in index.html
+
+Step-07
+- Deleted social links from Gallery and Photoshop pages
+- Deleted google-maps.js code and moved folder to assets
+- Added script for google-maps.js in index.html
+- Added this page is under construction to contact page
