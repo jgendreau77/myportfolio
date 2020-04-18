@@ -1,21 +1,61 @@
 /* CSS Document */
 
-html {
-	height: 100%;
-	overflow: auto;
+@import "compass/css3";
+@import url(https://fonts.googleapis.com/css?family=Istok+Web:400,700);
+@import url(https://fonts.googleapis.com/css?family=Lato:300,400,700,900);
+
+html,body{
+	background: orangered;
 }
 
-body {background-color:orangered;}
-
-#timedate {
-  font: small-caps lighter 43px/150% "Segoe UI", Frutiger, "Frutiger Linotype", "Dejavu Sans", "Helvetica Neue", Arial, bold;
-  text-align:center;
-  width: 50%;
-  margin: 40px auto;
-  color:#000000;
-  padding: 20px;
+.caltwo{
+	width: 200px;
+	margin: 90px auto 0 auto;
+	background: #007bff;
+	text-align:center;      
+	color: #000;
+	position: relative;
+	font-family: "Impact, Haettenschweiler", 'Franklin Gothic Bold', 'Arial Black', 'Bold';
+	text-transform: uppercase;
+	padding: 10px 0;
+	box-shadow: 5px 5px 5px #007bff,0.2;
 }
+.daytwo{
+	font-size: 25px;
+	letter-spacing: 7px;
+	font-weight: 300;
+	margin-bottom: 2px;
+}
+.monthtwo{
+	font-size: 25px;
+	font-weight: 400;
+	color: #000;
+	letter-spacing: 5px;
+	word-spacing: 5px;
+}
+.clock{
+	width: 150px;
+	height: 50px;
+	background: #007bff;
+	margin: 0 auto;
+	line-height: 50px;
+	text-align:center;
+	box-shadow: 5px 5px 5px #007bff,0.2;
+}
+.time{
+	display:inline-block;
+	margin: 0;
+	padding: 0;
+	margin-right: -4px;
+	font-family: "Impact, Haettenschweiler", 'Franklin Gothic Bold', 'Arial Black', 'Bold';
+	font-size: 23px;
+	color: #000;
+	letter-spacing: 5px;
+}	
 
+.timer{
+	margin: 5px 0;
+}
 /* Hides scroll bar */
 ::-webkit-scrollbar {
     display: none;
