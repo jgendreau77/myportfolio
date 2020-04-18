@@ -43,12 +43,11 @@ Step-06
 - Replaced blog.html page with photoshop.html and deleted single.html
 - Deleted under construction and added description and instructions
 - Added photoshop folder to assets/images and added 18 images to photoshop.html page
-- Added text to images
-- Added link to photoshop in index.html
+- Added text to images and added link to photoshop in index.html
 - Deleted 1 image and added 4 images to photoshop.html
 - Added js folder with app.js and css foler with style.css
 - Added clock div to index.html and added css and js
-- Style.css added webkit scrollbar to display none & html overflow hidden
+- Style.css added webkit scrollbar to display none & html overflow auto
 - index.html added link for style.css and script for app.js
 - Changed background in style.css to orangered
-
+- Deleted link and script for capture/js/bootstrap-datepicker.js in index.hmtl
