@@ -47,7 +47,7 @@ Step-06
 - Deleted 1 image and added 4 images to photoshop.html
 - Added js folder with app.js and css foler with style.css
 - Added clock div to index.html and added css and js
-- Style.css added webkit scrollbar to display none & html overflow auto
+- Style.css added webkit scrollbar to display none
 - index.html added link for style.css and script for app.js
 - Changed background in style.css to orangered
-- Deleted link and script for capture/js/bootstrap-datepicker.js in index.hmtl
+- Deleted link and script for capture/js/bootstrap-datepicker.js in index.html
