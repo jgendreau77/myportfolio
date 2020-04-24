@@ -49,7 +49,7 @@ Step-06
 - Added clock div to index.html and added css and js
 - Style.css added webkit scrollbar to display none
 - index.html added link for style.css and script for app.js
-- Changed background in style.css to orangered
+- Changed background in style.css to orangered and adjusted css for month, day and date
 - Deleted link and script for capture/js/bootstrap-datepicker.js in index.html
 
 Step-07
