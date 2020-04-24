@@ -18,7 +18,7 @@ $(document).ready(function(){
 		var minute=d.getMinutes();
 		var hour=d.getHours();
 		var sec=d.getSeconds();
-		var secMinMeter=300/60;
+		var secMinMeter=300/60;		
 		$(".hours").css("width",hour*12.5+"px");
 		if(hour<10){
 			$(".hour").html("0"+hour+":")

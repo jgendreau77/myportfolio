@@ -9,7 +9,7 @@ html,body{
 }
 
 .caltwo{
-	width: 200px;
+	width: 250px;
 	margin: 90px auto 0 auto;
 	background: #007bff;
 	text-align:center;      
@@ -17,8 +17,8 @@ html,body{
 	position: relative;
 	font-family: "Impact, Haettenschweiler", 'Franklin Gothic Bold', 'Arial Black', 'Bold';
 	text-transform: uppercase;
-	padding: 10px 0;
-	box-shadow: 5px 5px 5px #007bff,0.2;
+	padding: 5px 0;
+	box-shadow: 10px 5px 10px #007bff,0.2;
 }
 .daytwo{
 	font-size: 25px;
