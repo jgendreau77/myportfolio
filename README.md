@@ -54,6 +54,6 @@ Step-06
 
 Step-07
 - Deleted social links from Gallery and Photoshop pages
-- Deleted google-maps.js code and moved folder to assets
-- Added script for google-maps.js in index.html
-- Added this page is under construction to contact page
+- Deleted google-maps code from all html pages and css
+- Deleted send message box and the css for it
+
